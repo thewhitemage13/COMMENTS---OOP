@@ -1,0 +1,24 @@
+﻿  GROUP - OOP.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "GROUP%20-%20OOP.cpp")
+  
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(75,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(81,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(87,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(133,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(146,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(163,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(175,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(192,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(204,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Student.cpp
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: Комментарий XML-документа  применен к "Student": неправильно сформированный XML: Следующие теги не закрыты: summary, summary.
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\Student.h(5,1): warning C4635: 
+  (компиляция исходного файла "Student.cpp")
+  
+  Создание кода...
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(158): warning C4715: Student::GePracticRatesCount: значение возвращается не при всех путях выполнения
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(187): warning C4715: Student::GetHomeWorkRatesCount: значение возвращается не при всех путях выполнения
+D:\C++\C++ OOP\GROUP - OOP\GROUP - OOP\GROUP - OOP.cpp(216): warning C4715: Student::GetExamRatesCount: значение возвращается не при всех путях выполнения
+  GROUP - OOP.vcxproj -> D:\C++\C++ OOP\GROUP - OOP\x64\Debug\GROUP - OOP.exe
